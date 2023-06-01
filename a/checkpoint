@@ -1,0 +1,14 @@
+9.1 
+cout << &count << endl;
+
+9.2 
+float *fltPtr;
+
+9.3 
+1. * points to an address in memory
+2. * can dereference a variable in memory so you can see its value
+3. * stores a value in an address that you can access later 
+
+9.4
+50 60 70
+
